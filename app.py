@@ -10,7 +10,7 @@ from gtts import gTTS  # Librería para convertir texto a voz
 # Configuración del cliente OpenAI
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
-    api_key="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"
+    api_key="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"
 )
 
 app = Flask(__name__)
